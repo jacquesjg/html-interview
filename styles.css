@@ -12,3 +12,6 @@ li {
     margin: 10px;
     font-style: italic;
 }
+img {
+  border-radius: 90%;
+}
